@@ -33,7 +33,7 @@ export async function getResolvedTheme(
 
 const yaakDark = {
   id: 'yaak-dark',
-  label: 'Yaak',
+  label: 'Yeek',
   dark: true,
   base: {
     surface: 'hsl(244,23%,14%)',
@@ -80,7 +80,7 @@ const yaakDark = {
 
 const yaakLight = {
   id: 'yaak-light',
-  label: 'Yaak',
+  label: 'Yeek',
   dark: false,
   base: {
     surface: 'hsl(0,0%,100%)',
